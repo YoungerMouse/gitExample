@@ -1,1 +1,2 @@
-boss,htian63,Tian,Haowenemployee,ywang3339,Wang,Yunze
+boss,htian63,Tian,Haowen
+employee,ywang3339,Wang,Yunze
