@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss,htian63,Tian,Haowen
 employee,ywang3339,Wang,Yunze
 employee,yzhang2874,Zhang,Yiming
